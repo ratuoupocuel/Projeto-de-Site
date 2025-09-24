@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+    font: 13pt Arial;
+}
+
+main {
+    background-color: brown;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+}
+
+h1 {
+    color: coral;
+}
+
